@@ -1,5 +1,5 @@
 {
-  "name": "sanity-plugin-sanity-test-publish",
+  "name": "@zafercuz/sanity-plugin-sanity-test-publish",
   "version": "1.0.0",
   "description": "A test plugin for testing out publishing to npm registry, this my first time",
   "keywords": [

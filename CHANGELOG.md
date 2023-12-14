@@ -5,6 +5,12 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.0](https://github.com/zafercuz/sanity-test-plugin/compare/v1.0.0...v1.1.0) (2023-12-14)
+
+### Features
+
+- add new console log for testing ([dcd1504](https://github.com/zafercuz/sanity-test-plugin/commit/dcd150449cf2bbc8025e300d4306dd6ad46396c3))
+
 ## 1.0.0 (2023-12-14)
 
 ### Features
